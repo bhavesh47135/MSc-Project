@@ -374,7 +374,7 @@ if (typeof web3 !== 'undefined') {
     }
   ];
 
-  var contractAddress = '0x5a695c2a83fa8381efba6b8c3b634edf0bc19be4';
+  var contractAddress = '0x48f75b4ae22e624def2d8d6f2c13f2a5d4c6767b';
 
   var token = new web3.eth.Contract(ABI, contractAddress);
 
